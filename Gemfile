@@ -65,3 +65,11 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+
+gem "devise", ">= 4.7.1"
+
+gem "haml"
+
+gem "jquery-rails"
+
+gem "money-rails"
